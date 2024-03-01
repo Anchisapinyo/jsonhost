@@ -1,0 +1,25 @@
+[{
+    "title": "Ethereum",
+    "url": "https://eth.blockscout.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum.svg"
+},
+{
+    "title": "Ethereum Classic",
+    "url": "https://blockscout.com/etc/mainnet",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ethereum-classic.svg"
+},
+{
+    "title": "Shibuya (EVM)",
+    "url": "https://blockscout.com/shibuya",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/shibuya.svg",
+    "invertIconInDarkMode": true
+},
+{
+    "title": "POA Sokol",
+    "url": "https://blockscout.com/poa/sokol",
+    "group": "Other",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/poa-sokol.svg"
+}]
