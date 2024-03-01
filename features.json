@@ -18,6 +18,13 @@
     "invertIconInDarkMode": true
 },
 {
+    "title": "Sepolia",
+    "url": "https://eth-sepolia.blockscout.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
+    "isActive": true
+},
+{
     "title": "POA Sokol",
     "url": "https://blockscout.com/poa/sokol",
     "group": "Other",
